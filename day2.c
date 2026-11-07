@@ -17,6 +17,6 @@ printf("\n Enter your name ");
 int lenght=10, breadth=15;
 int area=lenght*breadth;
 printf("\n area of rectangle is %d",area);
-scanf()
+scanf
 return 0;
 }
