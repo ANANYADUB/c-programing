@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int studentid = 5 4;
+    int studentid = 54;
     float score = 88.96;
     char grade = 'A';
     printf("Student ID: %d\n", studentid);
